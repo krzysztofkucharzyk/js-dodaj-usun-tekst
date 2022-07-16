@@ -1,0 +1,18 @@
+body {
+    background-color: #91b2ff;
+    width: 400px;
+    text-align: center;
+    margin:0 auto;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+p {
+    color: #a85ca8;
+}
+
+button {
+    padding: 10px 30px;
+}
